@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mariano 👋💻
 
-<!--
-**MarianoGuastella/MarianoGuastella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github.com/MarianoGuastella/MarianoGuastella/assets/66016200/1618c7af-8760-44fc-bd22-bf6c2cb8f682" alt="Project Image" width="200" />
 
-Here are some ideas to get you started:
+Full Stack Developer pursuing my Bachelor's Degree in Computer Science + Master's Degree 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const mariano = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, C++, Smalltalk],
+  tools: [React, Django, Flask, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
+
+📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/mariano-guastella/)
+- [GitHub](https://github.com/MarianoGuastella)
+- marianoguastella@gmail.com
