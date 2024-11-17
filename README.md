@@ -7,9 +7,9 @@ Full Stack Developer pursuing my Bachelor's Degree in Computer Science + Master'
 ```javascript
 const mariano = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, C++, Smalltalk],
-  tools: [React, Django, Flask, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Typescript, Python, Go, Ruby, HTML, C++, Smalltalk],
+  tools: [React, Django, Flask, Docker, Kubernetes, FastAPI],
+  architecture: ["microservices", "hexagonal", "design system pattern"],
 }
 ```
 
